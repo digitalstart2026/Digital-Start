@@ -31,11 +31,11 @@ export default function Home() {
       {/* ---------------------Innovation section Ends-----------------  */}
 
       {/* ---------------------Online presence section Starts-----------------  */}
-      <OnlinePresence />
+      {/* <OnlinePresence /> */}
       {/* ---------------------Online presence section Ends-----------------  */}
 
       {/* ---------------------Creative mind section Starts-----------------  */}
-      <CreativeMind />
+      {/* <CreativeMind /> */}
       {/* ---------------------Creative mind section Ends-----------------  */}
 
       {/* ---------------------Customer Stories section Starts-----------------  */}
@@ -43,7 +43,7 @@ export default function Home() {
       {/* ---------------------Customer Stories section Ends-----------------  */}
 
       {/* ---------------------Subscription section Starts-----------------  */}
-      <Subscription />
+      {/* <Subscription /> */}
       {/* ---------------------Subscription section Ends-----------------  */}
 
       {/* ---------------------Faq section Starts-----------------  */}
@@ -51,7 +51,7 @@ export default function Home() {
       {/* ---------------------Faq section Ends-----------------  */}
 
       {/* ---------------------Achievements section Starts-----------------  */}
-      <Achievements />
+      {/* <Achievements /> */}
       {/* ---------------------Achievements section Ends-----------------  */}
 
       {/* ---------------------Solutions section Starts-----------------  */}
